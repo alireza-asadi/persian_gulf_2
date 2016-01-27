@@ -223,7 +223,7 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
+    about_text = [[persian_gulf
 
     help_text = [[
 Commands list :
