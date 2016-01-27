@@ -224,8 +224,6 @@ function create_config( )
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[persian_gulf
-
-    help_text = [[
 Commands list :
 !kick [username|id]
 You can also do it by reply
